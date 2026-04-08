@@ -1,0 +1,16 @@
+---
+title: "Manual de Introdução a CC"
+author: "Bruno Silva"
+mainfont: "Arial"
+papersize: a4
+geometry:
+  - top=2cm
+  - bottom=3cm
+  - left=2cm
+  - right=3cm
+fontsize: 12pt
+header-includes:
+  - \usepackage{setspace}
+  - \onehalfspacing
+---
+
