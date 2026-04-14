@@ -1,3 +1,12 @@
-ignore/*
+# geral
+ignore/
 config.yaml:Zone.*
 remove.*
+
+# códigos c
+*.o
+
+## Ignora todos os arquivos que não possuem extensão (comumente os executáveis)
+*
+!*.*
+!*/
