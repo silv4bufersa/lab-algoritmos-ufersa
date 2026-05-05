@@ -23,9 +23,7 @@ int main(void)
             printf("%d x %d = %d\n", tabuada, multiplicador, multiplicacao);
             multiplicador++;
         }
-
         tabuada++;
     }
-
     return 0;
 }
