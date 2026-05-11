@@ -5,6 +5,7 @@ remove.*
 
 # códigos c
 *.o
+*.exe
 
 ## Ignora todos os arquivos que não possuem extensão (comumente os executáveis)
 *
